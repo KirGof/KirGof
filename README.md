@@ -1,21 +1,19 @@
 ## Hi there 👋
 
-Greetings! I'm Eduard and you can call me Ed.
+Greetings! I'm Eduard (call me Ed), a DevOps engineer with 2+ years of hands-on commercial experience optimizing deployments and infrastructure.
 
-I'm a recent convert to the exciting world of DevOps!  Having a background used linux and knowlege in C, I'm fascinated by the potential of DevOps to bridge the gap between development and deployments, leading to smoother workflows and faster run progeckt.
+With a solid Linux foundation, I've bridged dev and ops teams to deliver reliable, scalable systems. Here's what I've been building:
 
-Currently 🌱, I'm actively learning about core DevOps concepts like:
+    Custom Helm charts for streamlined Kubernetes deployments.
 
-* Version Control Systems (VCS): Grasping the power of tools like Git for efficient code management and collaboration.
+    CI/CD pipelines in Jenkins, including tailored solutions for business-specific challenges.
 
-* Continuous Integration & Continuous Delivery (CI/CD): Understanding how to automate the build, test, and deployment pipeline for faster releases with fewer errors.
+    Kubernetes manifests and Istio configurations for robust microservices orchestration.
 
-* Infrastructure as Code (IaC): Exploring tools like Terraform or Ansible to automate infrastructure provisioning and configuration for consistency and repeatability.
+    Vault integration with automated SSL certificate generation for secure secrets management.
 
+    Nginx configurations optimized for high-traffic environments.
 
-🔭 Continuous Learning is Key!
+    Log analysis and troubleshooting to pinpoint and resolve production issues swiftly.
 
-The DevOps landscape is constantly evolving, and I'm dedicated to staying up-to-date on the latest tools and methodologies.  Currently, I'm digging deeper into containerization technologies like Docker and Kubernetes to explore their role in modern application deployment.
-
-Let's collaborate and streamline the software development lifecycle!
 
