@@ -4,16 +4,16 @@ Greetings! I'm Eduard (call me Ed), a DevOps engineer with 2+ years of hands-on 
 
 With a solid Linux foundation, I've bridged dev and ops teams to deliver reliable, scalable systems. Here's what I've been building:
 
-    Custom Helm charts for streamlined Kubernetes deployments.
+  Custom Helm charts for streamlined Kubernetes deployments.
 
-    CI/CD pipelines in Jenkins, including tailored solutions for business-specific challenges.
+  CI/CD pipelines in Jenkins, including tailored solutions for business-specific challenges.
 
-    Kubernetes manifests and Istio configurations for robust microservices orchestration.
+  Kubernetes manifests and Istio configurations for robust microservices orchestration.
 
-    Vault integration with automated SSL certificate generation for secure secrets management.
+  Vault integration with automated SSL certificate generation for secure secrets management.
 
-    Nginx configurations optimized for high-traffic environments.
+  Nginx configurations optimized for high-traffic environments.
 
-    Log analysis and troubleshooting to pinpoint and resolve production issues swiftly.
+  Log analysis and troubleshooting to pinpoint and resolve production issues swiftly.
 
-
+🔭 Always evolving—currently exploring advanced observability and GitOps practices to push efficiency further.
