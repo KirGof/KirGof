@@ -1,41 +1,94 @@
-## Hi there 👋
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Greetings!+I'm+Eduard+(Ed);DevOps+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2%2B%20years%20of%20experience-2EA043?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps%20Engineer-0A0C10?style=for-the-badge&logo=azuredevops&logoColor=white" />
+</p>
 
 ---
 
-**Greetings!**
+### 👨‍💻 **About Me**
 
-I'm Eduard (call me Ed), a DevOps engineer with 2+ years of hands-on commercial experience optimizing deployments and infrastructure.
+I'm Eduard (call me Ed), a DevOps engineer with **2+ years** of hands-on commercial experience optimizing deployments and infrastructure.
 
 With a solid Linux foundation, I've bridged dev and ops teams to deliver reliable, scalable systems.
 
 ---
 
-**⚙️ Here's what I've been building:**
+### 🏗️ **Here's what I've been building:**
 
-📦 **Custom Helm charts** for streamlined Kubernetes deployments.
-
-🔄 **CI/CD pipelines in Jenkins**, including tailored solutions for business-specific challenges.
-
-☸️ **Kubernetes manifests and Istio configurations** for robust microservices orchestration.
-
-🔐 **Vault integration** with automated SSL certificate generation for secure secrets management.
-
-🚀 **Nginx configurations** optimized for high-traffic environments.
-
-🔍 **Log analysis and troubleshooting** to pinpoint and resolve production issues swiftly.
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /><br />
+        <sub>Custom Helm charts</sub><br />
+        <sub>streamlined Kubernetes deployments</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /><br />
+        <sub>CI/CD pipelines</sub><br />
+        <sub>tailored for business challenges</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" /><br />
+        <sub>K8s + Istio</sub><br />
+        <sub>robust microservices</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" /><br />
+        <sub>Vault integration</sub><br />
+        <sub>automated SSL certs</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /><br />
+        <sub>Nginx configs</sub><br />
+        <sub>high-traffic optimized</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Log%20Analysis-FF6F00?style=for-the-badge&logo=grafana&logoColor=white" /><br />
+        <sub>Log analysis</sub><br />
+        <sub>swift troubleshooting</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-🌱 **Always evolving** — currently exploring advanced observability and GitOps practices to push efficiency further.
+### 🛠️ **Technologies I work with**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭%20Always%20evolving-0A1929?style=for-the-badge" /><br />
+  <i>currently exploring advanced observability and GitOps practices to push efficiency further</i>
+</p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edward-the-devops&style=flat-square&color=58A6FF" alt="Profile views" />
+</p>
+
+---
