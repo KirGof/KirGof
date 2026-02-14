@@ -21,44 +21,42 @@ With a solid Linux foundation, I've bridged dev and ops teams to deliver reliabl
 
 ### 🏗️ **Here's what I've been building:**
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /><br />
-        <sub>Custom Helm charts</sub><br />
-        <sub>streamlined Kubernetes deployments</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /><br />
-        <sub>CI/CD pipelines</sub><br />
-        <sub>tailored for business challenges</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" /><br />
-        <sub>K8s + Istio</sub><br />
-        <sub>robust microservices</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" /><br />
-        <sub>Vault integration</sub><br />
-        <sub>automated SSL certs</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /><br />
-        <sub>Nginx configs</sub><br />
-        <sub>high-traffic optimized</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/Log%20Analysis-FF6F00?style=for-the-badge&logo=grafana&logoColor=white" /><br />
-        <sub>Log analysis</sub><br />
-        <sub>swift troubleshooting</sub>
-      </td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+      <br /><b>Custom Helm charts</b>
+      <br /><sub>streamlined Kubernetes deployments</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+      <br /><b>CI/CD pipelines</b>
+      <br /><sub>tailored for business challenges</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+      <br /><b>K8s + Istio</b>
+      <br /><sub>robust microservices</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+      <br /><b>Vault integration</b>
+      <br /><sub>automated SSL certs</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+      <br /><b>Nginx configs</b>
+      <br /><sub>high-traffic optimized</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/Log%20Analysis-FF6F00?style=for-the-badge&logo=grafana&logoColor=white" />
+      <br /><b>Log analysis</b>
+      <br /><sub>swift troubleshooting</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
